@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Media Renamed
+Comment=Renomeador de arquivos de mídia via TMDB
+Exec=bash /CAMINHO/PARA/launcher/run.sh
+Icon=video-x-generic
+Terminal=false
+Type=Application
+Categories=AudioVideo;Utility;
